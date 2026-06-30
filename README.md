@@ -21,7 +21,7 @@ The firm hits a critical wall in June due to heavy project demand. Below is the 
 ### 2. The Financial Trajectory (The Overhead Squeeze)
 While expanding staff solves the labor crisis, it introduces a severe near-term margin squeeze due to step-fixed overhead. This trend line captures the H1 trajectory, proving that a value-based premium pricing model optimizes short-term cash flow more effectively:
 
-![Dashboard](./Cahaba Structural Engineering Simulation render.png)
+![Dashboard](./Cahaba_Structural_Engineering_Simulation_render.png)
 
 ---
 
