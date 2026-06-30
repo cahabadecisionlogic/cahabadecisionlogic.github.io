@@ -15,11 +15,9 @@ Whether you are a hiring manager auditing my technical work or just stopping by 
 **Project Type:** Professional Services Master Budget & Capacity Optimization Model  
 **Core Objective:** Model a complex milestone cash-flow lifecycle, identify a hard 160-hour monthly labor bottleneck, and simulate three competing scaling strategies for an engineering firm.
 
-### 1. The Operational Reality (The Capacity Crisis)
-The firm hits a critical wall in June due to heavy project demand. Below is the live dashboard visual demonstrating the operational strain on principal labor hours across three distinct strategic choices . . .
-
-### 2. The Financial Trajectory (The Overhead Squeeze)
-While expanding staff solves the labor crisis, it introduces a severe near-term margin squeeze due to step-fixed overhead. This trend line captures the H1 trajectory, proving that a value-based premium pricing model optimizes short-term cash flow more effectively:
+###  The Strategic Simulation Dashboard (Capacity vs. Cash Flow)
+The firm faces a dual challenge: hitting a critical wall in June due to a hard 160-hour principal labor cap, and navigating a severe near-term margin squeeze introduced by step-fixed overhead when trying to hire staff.
+Below is a snapshot of the live executive dashboard capturing the complete operational and financial reality in a single view. The interactive toggle instantly recalculates the firm's profile across three distinct strategic choices. The visual contrast in the charts proves that while delegating work to a junior engineer completely clears the physical burnout crisis, a value-based premium pricing model actually optimizes short-term cash flow more effectively without expanding fixed infrastructure.
 
 ![Dashboard](./Cahaba_Structural_Engineering_Simulation_render.PNG)
 
